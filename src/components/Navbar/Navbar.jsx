@@ -52,7 +52,7 @@ const Navbar = () => {
     <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200 relative z-40">
       {/* upper Navbar */}
       <div className='bg-[#fea928]/40 py-3 sm:py-0'>
-        <div className='lg:container flex justify-between items-center'>
+        <div className='lg:container mx-auto flex justify-between items-center'>
           <div>
             <a href='#' className='font-bold text-2xl sm:text-3xl flex gap-2'>
               <img src={logo} alt='Logo'
