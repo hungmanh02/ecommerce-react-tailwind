@@ -81,8 +81,11 @@ const Products = () => {
                                 </div>
                             </div>
                         </div>
-                    ))
-                }
+                    ))}
+            </div>
+            {/* view all button */}
+            <div className='flex justify-center'>
+                <button className='text-center mt-10 cursor-pointer bg-[#fea928] py-1 px-5 rounded-md hover:bg-[#fea928]/80'>View all product</button>
             </div>
         </div>
       </div>

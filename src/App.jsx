@@ -24,6 +24,7 @@ const App =()=>{
     <TopProducts/>
     <Banner/>
     <Subscribe/>
+    <Products/>
     </div>;
 }
 export default App
